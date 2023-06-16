@@ -1,6 +1,6 @@
 # How to Set Up Daisy UI with Next.js
 
-![Daisy UI and Next.js](https://example.com/daisy_ui_nextjs_image.png)
+![Daisy UI and Next.js]([https://example.com/daisy_ui_nextjs_image.png](https://images.unsplash.com/photo-1506729623306-b5a934d88b53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80))
 
 Are you looking to enhance the user interface of your Next.js application? Look no further than Daisy UI, a delightful CSS framework for Tailwind CSS. In this tutorial, we'll walk you through the process of setting up Daisy UI with Next.js, enabling you to create beautiful and responsive designs in no time.
 
